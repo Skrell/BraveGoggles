@@ -13,3 +13,7 @@ $discard,site=cbsnews.com
 $discard,site=nbcnews.com
 $discard,site=usatoday.com
 $discard,site=reuters.com
+$boost,site=dailywire.com
+$boost,site=theepochtimes.com
+$downrank,site=wikipedia.com
+
