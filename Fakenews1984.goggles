@@ -2,3 +2,9 @@
 ! description: Removed renowned fake news sites like CNN
 ! public: true
 ! author: Millenicide
+$discard,site=cnn.com
+$discard,site=nytimes.com
+$discard,site=npr.org
+$discard,site=apnews.com
+$discard,site=abcnews.go.com
+$discard,site=washingtonpost.com
