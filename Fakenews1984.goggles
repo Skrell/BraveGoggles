@@ -8,3 +8,5 @@ $discard,site=npr.org
 $discard,site=apnews.com
 $discard,site=abcnews.go.com
 $discard,site=washingtonpost.com
+$discard,site=cnbc.com
+$discard,site=cbsnews.com
