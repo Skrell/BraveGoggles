@@ -56,5 +56,5 @@ $boost=3,site=dailywire.com
 $boost=3,site=theepochtimes.com
 $boost=3,site=dailymail.co.uk
 $boost=3,site=thepostmillennial.com
-$discard,site=wikipedia.com
+$downrank=3,site=en.wikipedia.org
 
