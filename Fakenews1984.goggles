@@ -57,6 +57,7 @@ $boost=3,site=dailywire.com
 $boost=3,site=theepochtimes.com
 $boost=3,site=dailymail.co.uk
 $boost=3,site=thepostmillennial.com
+$boost=2,site=brownstone.org
 $boost=2,site=zerohedge.com
 $boost=2,site=thefederalist.com
 $downrank=3,site=en.wikipedia.org
