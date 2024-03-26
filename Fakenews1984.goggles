@@ -55,7 +55,8 @@ $discard,site=yahoo.com
 $discard,site=snopes.com
 $discard,site=newrepublic.com
 $discard,site=currentaffairs.org
-$boost=2,site=thefederalist.com/
+$discard,site=mediaite.com
+$boost=2,site=thefederalist.com
 $boost=3,site=dailywire.com
 $boost=3,site=theepochtimes.com
 $boost=3,site=dailymail.co.uk
