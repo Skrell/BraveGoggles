@@ -58,6 +58,7 @@ $discard,site=currentaffairs.org
 $discard,site=mediaite.com
 $discard,site=msnbc.com
 $discard,site=aljazeera.com
+$discard,site=politifact.com
 $boost=2,site=thefederalist.com
 $boost=3,site=dailywire.com
 $boost=3,site=theepochtimes.com
